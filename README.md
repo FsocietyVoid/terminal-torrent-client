@@ -41,20 +41,20 @@ Enter your choice (1/2/3): 2
 ### Automated Installation (Recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/terminal-torrent-client/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/FsocietyVoid/terminal-torrent-client/main/install.sh | sudo bash
 ```
 
 Or if you prefer `wget`:
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/YOUR_USERNAME/terminal-torrent-client/main/install.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/FsocietyVoid/terminal-torrent-client/main/install.sh | sudo bash
 ```
 
 ### Manual Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/terminal-torrent-client.git
+   git clone https://github.com/FsocietyVoid/terminal-torrent-client.git
    cd terminal-torrent-client
    ```
 
