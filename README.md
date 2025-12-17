@@ -79,6 +79,9 @@ Then follow the interactive prompts:
 2. Choose stream (2) or download (1)
 3. Enjoy!
 
+### Website to find torrent links and Magnet links.
+`torrentgalaxy.one`
+
 ### Command Line Arguments (Optional)
 
 You can also use it non-interactively:
